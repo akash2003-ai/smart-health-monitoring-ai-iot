@@ -1,0 +1,15 @@
+.git/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+*.csv
+model.ipynb
+README.md
+.gitattributes
+.DS_Store
